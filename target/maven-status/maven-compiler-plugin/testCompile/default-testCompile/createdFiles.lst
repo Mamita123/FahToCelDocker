@@ -1,0 +1,4 @@
+org\example\AppTest.class
+org\example\FahrenheitToCelsiusTest.class
+org\example\KelvinToFahrenheitTest.class
+org\example\KelvinToCelsiusTest.class
